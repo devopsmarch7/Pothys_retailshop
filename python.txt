@@ -1,1 +1,2 @@
- the file contains python scripyt
+This file contains python script.
+Python is a easy language and scripting language. This is the updated sentence.
